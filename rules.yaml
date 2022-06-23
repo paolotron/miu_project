@@ -1,0 +1,14 @@
+
+start: MI
+end: MU
+
+alphabet:
+  - M
+  - I
+  - U
+
+rules:
+  "I$": "IU"
+  "M(.*)$": "M\\1\\1"
+  "III": "U"
+  "UU": "U"
