@@ -1,2 +1,0 @@
-PyYAML~=6.0
-sortedcontainers~=2.4.0
